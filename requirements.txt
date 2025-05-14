@@ -1,0 +1,23 @@
+# Core libraries
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# Model saving and loading
+joblib
+
+# API development (choose one)
+flask
+# fastapi
+# uvicorn  # uncomment if using FastAPI
+
+# Optional: For creating UI
+streamlit
+# gradio
+
+# Optional: For deployment
+gunicorn  # production-ready WSGI server for Flask apps
+
+# Optional: if using Docker (Dockerfile handles this separately)
